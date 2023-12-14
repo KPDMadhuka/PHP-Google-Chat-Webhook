@@ -5,7 +5,7 @@ $message = '';
 // Check if the form is submitted
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Replace 'YOUR_WEBHOOK_URL' with your actual Google Chat webhook URL
-    $webhookUrl = 'https://chat.googleapis.com/v1/spaces/......................................................';
+    $webhookUrl = 'YOUR_WEBHOOK_URL';
 
     // Get the form data
     $name = isset($_POST['name']) ? trim($_POST['name']) : '';
