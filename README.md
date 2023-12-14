@@ -1,4 +1,4 @@
-# PHP-Google-Chat-Webhook
+# PHP Google Chat Webhook
 A simple contact form data to Google Chat via webhooks
 
 This repository contains a simple contact form that allows users to submit their name, contact information, and a message. The form data is sent to Google Chat using a webhook.
